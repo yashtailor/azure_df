@@ -1,0 +1,9 @@
+{
+	"name": "bda-yt-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e0e8e98-b400-4dab-a7a6-5c16414d1101",
+		"tenantId": "b1239c77-b5d3-402a-85f8-2b62cb3e5aa5"
+	}
+}
